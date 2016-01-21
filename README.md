@@ -1,4 +1,16 @@
-# IP_2015-2016_Hangman_2
-This repository will hold the Hangman project
+Hangman 2
+---
 
-Create a new C++ project and copy the the files. All done!
+####Faculty of Computer Science, "Alexandru Ioan Cuza" University
+
+**University year:** 2015-2016
+
+**Author:** Mărtinaș Alex
+
+**Course:** Introduction to programming
+
+---
+
+This projects was built for the Introduction in programming course. The purpose of the project was to prove the understanding of basic programming concepts in the C++ language.
+
+---
